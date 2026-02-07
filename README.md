@@ -1,4 +1,4 @@
-# 🎮 Video Game Database System
+# 🎮 Video Games Database Application
 
 A comprehensive database application built to explore, analyze, and rate video games. This system leverages a robust **MySQL backend** populated with data scraped from **MobyGames**, delivered through an interactive **Streamlit** dashboard.
 

@@ -10,7 +10,7 @@ DB_CONFIG = {
     "user": st.secrets["mysql"]["user"],
     "password": st.secrets["mysql"]["password"],
     "database": st.secrets["mysql"]["database"],
-    "port": 3306
+    "port": 15535
 }
 
 # HELPER FUNCTIONS
